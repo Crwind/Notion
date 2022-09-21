@@ -1,0 +1,43 @@
+http://byteliu.com/PDF/%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%86.pdf
+
+背景 = 想要改變生活作息
+衝突 = 網路上的方法是否可行
+疑問 = 是否可行
+答案 = 可行
+
+
+30秒就能了解內容
+
+問題分類型 分群組
+
+網路新聞平台超級多，科技、軟體、黑客、區塊鏈、未來、商業、財金、投資、藝術、音樂
+
+摘要（Abstract）
+
+這份材料告訴我哪些我原本不知道的資訊／事實？（What important information did the material tell me about that I didn’t know and want to know?）
+這份材料在哪些地方改變我的既有的觀點？（What the mindset or notion in my head did the material change after reading?）
+讀完這份材料之後我有什麼新的啟發與點子？（Any questions that I didn’t even think about or new ideas inspired by the content of the materials? ）
+
+reading 的 tags
+
+https://iancheng0323.medium.com/%E5%BF%83%E6%99%BA%E5%9C%96-%E6%B5%81%E7%A8%8B%E5%9C%96-%E4%BE%BF%E5%88%A9%E8%B2%BC-all-in-one-%E7%9A%84%E8%B6%85%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7-whimsical-56a2491db77c
+
+https://julie-wu520.medium.com/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E5%80%91%E9%9C%80%E8%A6%81-%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%86-%E6%80%9D%E8%80%83-%E5%AF%AB%E4%BD%9C%E8%88%87%E8%A7%A3%E6%B1%BA%E5%95%8F%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E6%96%B9%E6%B3%95-d770a41589a9
+
+
+文字化為圖像
+
+https://www.smartm.com.tw/article/36333730cea3
+
+先講結論再分析原因，最後再次帶回結論
+金字塔原理必須結論（頂端）、論點（第二層）、證據（第三層）所構成，
+
+舉個生活化的例子，當和姊妹淘聚會時，若你想表達自己沒那麼愛男友了，但描述的方式卻是「我告訴你們，最近我都提不起禁跟男友約會，不知道自己怎麼了，下班很累只想做自己的事，覺得他很煩…」，講到這，姊妹們可能還無法摸著你究竟想表達什麼議題，是想抱怨上班太累、還是男友很煩？但若使用金字塔原理來描述，焦點便顯著聚焦：「我告訴你們，我最近好像沒那麼愛我男友了（結論），下班只想做自己的事不想跟他約會（論點一），而且對他很厭煩（論點二），所以我覺得自己好像沒那麼愛他了（帶回結論）。」透過簡單的生活化案例，可以發現《金字塔原理》就是一項工具，幫助快速梳理清楚表達邏輯。
+
+上面說完金字塔需遵循的「結論先行、以上整下」，還包括論點之間的「歸類分組，邏輯並進」，而MECE的原則就是建立在此之上誕生。在分類論點與證據時，必須做到相互獨立、完全窮盡，我們在思考原因或結構時，各論點之間沒有互相重疊或不完善之處，以完整支持針對上一層的論點。例如「世界上有哪幾種食物？」若你回答「台灣菜、日本料理、美式料理」這就違反 MECE 的原則，有疏漏並且無法保證相互獨立（墨西哥菜、韓式料理不是世界上的食物？台灣菜、日本料理有沒有相近菜色會重複？），然而倘若是回答「素食、葷食」，便符合 MECE 原則，因為菜色確實非素即葷。
+
+https://www.managertoday.com.tw/books/view/58288?
+
+https://rakuna.com.tw/speedreading/
+
+https://readingoutpost.com/snowball-speed-reading/
